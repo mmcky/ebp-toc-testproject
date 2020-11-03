@@ -1,0 +1,9 @@
+- file: content/intro
+  numbered: true
+
+- part: Part 1
+  chapters:
+    - file: content/part1/ch1/ch1.md
+      expand_sections: true
+      sections:
+        - file: content/part1/ch1/ch1section.md
